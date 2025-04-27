@@ -1,1 +1,7 @@
 @import 'tailwindcss';
+
+@theme {
+  --color-woodsmoke: #141519;
+  --color-ebony-clay: #222933;
+  --color-light-ebony-clay: #252e3f;
+}
